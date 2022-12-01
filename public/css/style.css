@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.centralizar {
+position: absolute;
+left: 30%;
+right: 30%;
+top: 30%;
+bottom: 30%;
+}
+
+body {
+    background-image: linear-gradient(to right, rgb(54, 15, 160), rgb(204, 204, 199));
+}
+
+button {
+    margin-left: 13%;
+    width: 30%;
+}
+
+.h2 {
+    text-align: center;
+    color: rgb(95, 95, 165);
+}
+
+img {
+    width: 30%;
+    margin-left: 30%;
+}
+
+.cor-interna {
+    background-color: #34558c;
+    height: 48px;
+    border-top: 1px solid #3e66a3;
+}
+
+.logo {
+    width: 50%;
+    margin-right: 500px;
+}
